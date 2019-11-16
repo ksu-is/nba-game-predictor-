@@ -1,0 +1,7 @@
+pandas
+sklearn
+lxml 
+html5lib 
+
+# Note: Also requires softImpute R package
+# install.packages('softImpute')
