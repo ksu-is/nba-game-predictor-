@@ -1,4 +1,4 @@
-Create ReadMe
+Create ReadMe DONE
 Scape statistics from basketball-reference.com 
 Build database in Excel
 Confirm forumlas to use in predicting scores
