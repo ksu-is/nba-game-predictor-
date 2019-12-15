@@ -1,7 +1,7 @@
 Create ReadMe DONE
-Scape statistics from basketball-reference.com 
-Build database in Excel
-Confirm forumlas to use in predicting scores
+Scape statistics from basketball-reference.com DONE
+Build database in Excel DONE
+Confirm forumlas to use in predicting scores DONE
 Confirm all imports needed (BeautifulSoup, sklearn, etc.)
 Run the code, locate problems under 'Problems' tab DONE
 Analyze code in Visual Studio, leave comments for each problem 
